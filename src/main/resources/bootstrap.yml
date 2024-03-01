@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: citizen-api
+  cloud:
+    config:
+      uri: http://localhost:2001
